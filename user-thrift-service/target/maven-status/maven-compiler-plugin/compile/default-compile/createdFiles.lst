@@ -1,0 +1,4 @@
+com\imooc\user\service\UserSerivceImpl.class
+com\imooc\user\thrift\ThriftServer.class
+com\imooc\user\mapper\UserMapper.class
+com\imooc\user\ServiceApplication.class

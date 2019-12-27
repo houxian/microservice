@@ -1,0 +1,8 @@
+com\imooc\user\controller\UserController.class
+com\imooc\user\response\Response.class
+com\imooc\user\thrift\ServiceProvider.class
+com\imooc\user\redis\RedisConfig.class
+com\imooc\user\ServiceApplication.class
+com\imooc\user\dto\UserDTO.class
+com\imooc\user\redis\RedisUtil.class
+com\imooc\user\response\LonginResponse.class

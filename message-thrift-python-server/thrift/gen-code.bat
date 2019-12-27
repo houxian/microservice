@@ -1,0 +1,1 @@
+d:/thrift/thrift-0.13.0.exe --gen py message.thrift
